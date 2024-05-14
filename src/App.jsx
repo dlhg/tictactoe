@@ -19,8 +19,6 @@ function App() {
       console.log(newBoard);
       if (turnCount + 1 >= 5) {
         console.log("checking for win");
-        if (newBoard[2])
-
       }
 
       /*

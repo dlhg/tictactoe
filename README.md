@@ -1,41 +1,6 @@
 # Tic Tac Toe
 
-This is a simple Tic Tac Toe game implemented using React.
-
-## Installation
-
-First, clone the repository:
-
-```sh
-git clone <repository-url>
-```
-
-Then, navigate to the project directory and install the dependencies:
-
-```sh
-cd tictactoe
-npm install
-```
-
-## Usage
-
-To start the development server, run:
-
-```sh
-npm run dev
-```
-
-To build the project for production, run:
-
-```sh
-npm run build
-```
-
-To lint the project, run:
-
-```sh
-npm run lint
-```
+This is a simple Tic Tac Toe game implemented using React and Vite.
 
 ## Game Rules
 
